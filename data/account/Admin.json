@@ -4,9 +4,13 @@
     {
       "username": "Admin",
       "deleted": false
+    },
+    {
+      "username": "Muirrum",
+      "deleted": false
     }
   ],
-  "password": "$2a$10$kE4d5oRcQOCksbKHur7nbezcGD6gUil/cqkwhGagfM1u4WfhDjR8.",
+  "password": "$2a$10$9wtAqk1qpiXYMhpXNl3G9uAOD2EdT71C7hJB4Cfqp.aISoyZxilSa",
   "banned": false,
   "deleted": false,
   "metadata": {}
