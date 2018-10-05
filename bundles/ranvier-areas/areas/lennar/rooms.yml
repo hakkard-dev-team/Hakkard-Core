@@ -1,0 +1,20 @@
+- id: mainstreet
+  title: "Main Street"
+  coordinates: [0,0,0]
+  description: "It's a long street filled with shops and people. The oppressive stench of manure and urine washes over you. There's a large manor to the north, a tavern to the west, an apothecary to the east, and an armorer to the southeast. To the south, the large archway of the main gate rises into the sky."
+  exits:
+    - direction: east
+      roomId: "lennarmanor:foyer"
+- id: tavern
+  title: "The Prancing Dolphin"
+  coordinates: [0,-1,0]
+  description: "It's a large room with two long benches next to a table, a stool, and a bar. There's an open door leading to the west, with casks of ale lining the walls. The door to Main Street is to the east"
+- id: armorer
+  title: "The Shining Knight"
+  coordinates: [1,-1,0]
+  description: "It's a relatively small shop, but it's stocked to the brim with weapons of all kinds. There's a table in the center, with a majestic sword inside a glass display case. To the northwest is the door back to main street"
+- id: apothecary
+  title: "The Witches Familiar"
+  coordinates: [1,0,0]
+  description: "It's a low, dark room filled with bubbling potions and strange ingredients. There is an old hag at the other end fiddling with a cauldron. To the west is the door back to main street."
+    
