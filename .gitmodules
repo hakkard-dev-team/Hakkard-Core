@@ -1,0 +1,3 @@
+[submodule "bundles/ranvier-areas"]
+	path = bundles/ranvier-areas
+	url = https://gitlab.com/hakkard-devs/hakkardmush-areas.git
