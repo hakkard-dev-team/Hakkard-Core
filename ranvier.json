@@ -3,7 +3,7 @@
   "bundles": [
     "ranvier-telnet",
     "ranvier-websocket",
-    "ranvier-areas",
+    "hakkard-areas",
     "ranvier-channels",
     "ranvier-commands",
     "ranvier-effects",
