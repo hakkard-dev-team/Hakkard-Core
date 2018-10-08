@@ -17,7 +17,6 @@
     "bundle-install": "node setup-bundles"
   },
   "dependencies": {
-    "apiai": "^4.0.3",
     "bcryptjs": "^2.4.0",
     "commander": "",
     "js-yaml": "",
@@ -25,14 +24,12 @@
     "optimist": "",
     "pretty-error": "^2.0.2",
     "rando-js": "^0.1.1",
-    "ranvier-telnet": "^1.0.2",
     "semver": "^5.4.1",
     "sprintf-js": "^1.0.3",
     "sty": "",
     "uuid": "^3.2.1",
     "winston": "^2.3.1",
     "wrap-ansi": "^2.0.0",
-    "ws": "^6.1.0",
     "yaml": ""
   },
   "devDependencies": {
