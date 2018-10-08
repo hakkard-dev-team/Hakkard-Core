@@ -6,12 +6,5 @@ Hakkard is a world full of mystery and wonder, a place where everything is magic
 # Contributions needed
 We are looking for people to work closely with our Leadership Team to figure out what locations need to be added. You're welcome to start up a new branch and work on a bundle that seems interesting to you, though core bundles (ranvier-telnet, **ranvier-input-events**, and anything else that starts with "ranvier-") should be discussed with the Leadership Team.
 
-# Getting started
-
-From here on you might want to look at one of the beginner tutorials:
-http://github.com/evennia/evennia/wiki/Tutorials.
-
-Evennia's documentation is here:
-https://github.com/evennia/evennia/wiki.
-
-Enjoy!
+# Ranvier Documentation
+https://ranviermud.com
