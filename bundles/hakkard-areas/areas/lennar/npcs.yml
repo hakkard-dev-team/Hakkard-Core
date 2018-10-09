@@ -1,0 +1,9 @@
+- id: 1
+  keywords: ['hag', 'witch']
+  name: "Old Witch"
+  level: 1
+  description: "The witch looks back at you, then back to the cauldron."
+  attributes:
+    health: 100
+  behaviors:
+    pacifist: true
