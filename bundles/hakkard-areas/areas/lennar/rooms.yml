@@ -12,6 +12,8 @@
       direction: east
     - roomId: "lennar:3"
       direction: southeast
+    - roomId: "lennar:6"
+      direction: southwest
 - id: 2
   title: "The Prancing Dolphin"
   description: "It's a large room with two long benches next to a table, a stool, and a bar. There's an open door leading to the west, with casks of ale lining the walls. The door to Main Street is to the east"
@@ -33,3 +35,14 @@
 - id: 5
   title: "City Gate"
   description: "The towering arch of the marble gateway towers above you. There is a small door set into the wall, Main Street is to the north, and the Northern Wastes are to the south."
+  exits:
+    - direction: north
+      roomId: "lennar:1"
+- id: 6
+  title: "Alley"
+  description: "The alley walls rise up around you, towering monoliths of stone and vines. There's a sewer grate set in the ground. To the northeast is Main Street."
+  exits:
+    - direction: northeast
+      roomId: "lennar:1"
+    - direction: down
+      roomId: "lennar-catacombs:1"
