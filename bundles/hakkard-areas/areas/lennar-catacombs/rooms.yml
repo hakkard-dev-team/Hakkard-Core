@@ -1,0 +1,13 @@
+- id: '1'
+  behaviors: {}
+  coordinates:
+    - 0
+    - 0
+    - 0
+  description: ''
+  doors: {}
+  items: []
+  meta: {}
+  npcs: []
+  script: null
+  title: Sewers
